@@ -1,0 +1,1 @@
+print("Arnav is bakasur insan");
